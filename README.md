@@ -1,4 +1,4 @@
 hello-jenkins
 =============
 
-My super sample app to test out Jenkins.
+My super simple app to test out Jenkins.
